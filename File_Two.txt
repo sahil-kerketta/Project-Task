@@ -1,1 +1,7 @@
-It is commonly used to host open source software development projects.[11] As of January 2023, GitHub reported having over 100 million developers and more than 420 million repositories, including at least 28 million public repositories.[12] It is the world's largest source code host as of June 2023. Over five billion developer contributions were made to more than 500 million open source projects in 2024.[13]
+It is commonly used to host open source software development projects.[11] As of January 2023, GitHub reported having over 100 million developers and more than 420 million repositories, including at least 28 million public repositories.[12] It is the world's largest source code host as of June 2023. Over five billion developer contributions were made to more than 500 million open source projects in 2024.[13]\
+
+
+Structure of the organization
+GitHub was originally a flat organization with no middle managers, instead relying on self-management.[16] Employees could choose to work on projects that interested them (open allocation), but the chief executive set salaries.[17]
+
+In 2014, the company added a layer of middle management in response to harassment allegations against its co-founder and then-CEO, Thomas Preston-Werner, and his wife Theresa. As a result of the scandal, Preston-Werner resigned from his position as CEO.[18] Co-founder and product lead, Chris Wanstrath, became CEO. Julio Avalos, then general counsel and administrative officer, assumed control over GitHub's business operations and day-to-day management.[19]
