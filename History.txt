@@ -1,0 +1,26 @@
+History
+The GitHub service was developed by Chris Wanstrath, P. J. Hyett, Tom Preston-Werner, and Scott Chacon using Ruby on Rails, and started in February 2008.[25] The company, GitHub, Inc., was formed in 2007 and is located in San Francisco.[26]
+
+
+GitHub at AWS Summit
+
+The shading of the map illustrates the number of users as a proportion of each country's Internet population. The circular charts surrounding the two hemispheres depict the total number of GitHub users (left) and commits (right) per country.
+On February 24, 2009, GitHub announced that within the first year of being online, GitHub had accumulated over 46,000 public repositories, 17,000 of which were formed in the previous month.[27] At that time, about 6,200 repositories had been forked at least once, and 4,600 had been merged.[27]
+
+That same year, the site was used by over 100,000 users, according to GitHub,[28] and had grown to host 90,000 unique public repositories, 12,000 having been forked at least once, for a total of 135,000 repositories.[29]
+
+In 2010, GitHub was hosting 1 million repositories.[30] A year later, this number doubled.[31] ReadWriteWeb reported that GitHub had surpassed SourceForge and Google Code in total number of commits for the period of January to May 2011.[32] On January 16, 2013, GitHub passed the 3 million users mark and was then hosting more than 5 million repositories.[33] By the end of the year, the number of repositories was twice as great, reaching 10 million repositories.[34]
+
+In 2015, GitHub opened an office in Japan, its first outside of the U.S.[35]
+
+On February 28, 2018, GitHub fell victim to the third-largest distributed denial-of-service (DDoS) attack in history, with incoming traffic reaching a peak of about 1.35 terabits per second.[36]
+
+On June 19, 2018, GitHub expanded its GitHub Education by offering free education bundles to all schools.[37][38]
+
+On June 11, 2019, it was announced that former Bitnami chief operating officer (COO) and co-founder, Erica Brescia, would be GitHub's COO.[39]
+
+On November 3, 2021, GitHub announced that CEO Nat Friedman, who became CEO when Microsoft acquired GitHub, was stepping down as CEO and GitHub's chief product officer, Thomas Dohmke, would become CEO on November 15.[40]
+
+In June 2025, the amount of repositories on GitHub surpassed one billion. Notably, the billionth repository contained nothing but the word "shit".[41]
+
+On August 11, 2025 Thomas Dohmke announced that he was to step down as CEO at the end of 2025, to pursue entrepreneurial endeavors; Microsoft did not immediately share its intention to find a direct replacement.[42]
